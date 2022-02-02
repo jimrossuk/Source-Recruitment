@@ -1,0 +1,67 @@
+h1, h2, h3, h4, h5, h6, a, p, div {
+  font-family: "Heebo", sans-serif !important;
+}
+
+#masthead {
+  margin: 2em 0 0 0 !important;
+  padding: 0;
+}
+
+.site-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.site-title {
+  margin-left: 4em;
+}
+
+h1.site-title {
+  font-weight: 500 !important;
+  font-size: 20px;
+  color: #604BD8;
+  text-align: left;
+  flex-wrap: nowrap !important;
+  max-width: 7em;
+  line-height: 16px;
+}
+
+.primary-navigation {
+  margin-right: 0;
+}
+
+.menu-wrapper a {
+  font-size: 16px !important;
+  color: #291B64 !important;
+}
+
+.menu-button a {
+  color: #ffffff !important;
+  background: transparent linear-gradient(180deg, #604BD8 0%, #342C67 100%) 0% 0% no-repeat padding-box;
+  border-radius: 20px;
+  opacity: 1;
+}
+
+.menu-item.linkedin {
+  -webkit-text-emphasis: none;
+          text-emphasis: none;
+  background-color: red;
+}
+
+.flex-container {
+  display: flex;
+  max-width: 100%;
+}
+
+.column {
+  width: 50%;
+}
+
+.bg-p {
+  background: transparent linear-gradient(133deg, #604BD8 0%, #342C67 100%) 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.img {
+  max-width: 100%;
+}/*# sourceMappingURL=style.css.map */
